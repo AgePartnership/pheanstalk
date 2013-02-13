@@ -1,9 +1,9 @@
 {
-    "name": "pda/pheanstalk",
+    "name": "geekology/pheanstalk",
     "type": "library",
     "description": "PHP client for beanstalkd queue",
     "keywords": ["beanstalkd"],
-    "homepage": "https://github.com/pda/pheanstalk",
+    "homepage": "https://github.com/Geekology/pheanstalk",
     "license": "MIT",
     "authors": [
         {
